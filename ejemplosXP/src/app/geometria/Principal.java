@@ -1,7 +1,7 @@
 package app.geometria;
 
 /** Clase de prueba */
-public class Principal{
+public class Principal {
 
 	public static void main(String[] args) {
 	  Poligono [] figuras = new Poligono[5];
