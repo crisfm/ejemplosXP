@@ -1,6 +1,6 @@
 package app.geometria;
 
-/** Clase de prueba */
+/** Clase de prueba 2*/
 public class Principal {
 
 	public static void main(String[] args) {
